@@ -17,6 +17,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
+
   ```sh
    git clone https://github.com/your-username/students-list.git
    cd students-list
@@ -24,6 +25,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 2. Install the dependencies:
+
       ```sh
     npm install
     # or
@@ -31,16 +33,16 @@ Before you begin, ensure you have met the following requirements:
     ```
 
 
-### Running the App
+## Running the App
 
-To start the development server, run:
+1. To start the development server, run:
 
-```sh
-npm run dev
- or
-yarn dev
-    ```
+    ```sh
+    npm run dev
+    or
+    yarn dev
+        ```
 
-The app will be available at http://localhost:5173/
+### The app will be available at http://localhost:5173/
 
 
