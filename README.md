@@ -18,10 +18,10 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 
-  ```sh
-   git clone https://github.com/your-username/students-list.git
-   cd students-list
-   ```
+    ```sh
+    git clone https://github.com/your-username/students-list.git
+    cd students-list
+    ```
 
 
 2. Install the dependencies:
