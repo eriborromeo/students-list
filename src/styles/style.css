@@ -1,0 +1,55 @@
+
+.App {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh; 
+    background-color: #ffffff;
+    align-items: center;
+    margin-left:10vw;
+    margin-top:5vh;
+    border-radius: 20px;
+  
+  }
+  
+  .header{
+    padding: 2vh;
+    width:85vw;
+    padding-bottom: 20px;
+    justify-content: space-between;
+  }
+  
+  .header p{
+    display: flex;
+    font-weight:bold ;
+  }
+    
+  .header img{
+   float: right;
+  }
+
+  .main-content{
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 60vh; 
+    
+  }
+   
+  
+  /* Avatar.css */
+
+.avatar {
+    width: 50px; /* Adjust width and height as needed */
+    height: 50px; /* Adjust width and height as needed */
+    border-radius: 50%; /* Makes it round */
+    overflow: hidden; /* Ensures the image stays within the bounds of the circle */
+    border: 2px solid #fff; /* Optional: adds a white border around the circle */
+  }
+  
+  .avatar-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the entire area of the circle */
+  }
+  
