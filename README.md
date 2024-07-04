@@ -1,6 +1,6 @@
 # Display Student List from Supabase
 
-![Screenshot of the app](../students-list/src/assets/students-list-screenshot.png)
+![Screenshot of the app](src/assets/students-list-screenshot.png)
 
 ## Description
 
