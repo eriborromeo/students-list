@@ -41,7 +41,7 @@ Before you begin, ensure you have met the following requirements:
     npm run dev
     or
     yarn dev
-        ```
+    ```
 
 ### The app will be available at http://localhost:5173/
 
