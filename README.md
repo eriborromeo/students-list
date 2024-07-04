@@ -1,5 +1,7 @@
 # Display Student List from Supabase
 
+![Screenshot of the app](../students-list/src/assets/students-list-screenshot.png)
+
 ## Description
 
 This project is a React application using Vite for fast development and Supabase for backend services.
